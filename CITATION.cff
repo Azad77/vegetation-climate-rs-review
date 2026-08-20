@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this compendium, please cite the paper."
+title: "From NDVI to Neural Networks: A Systematic Review of Satellite Remote Sensing Methods for Monitoring Vegetation Responses to Climate Change (2000-2025)"
+authors:
+  - family-names: Rasul
+    given-names: Azad
+    affiliation: Soran University
+    email: azad.rasul@soran.edu.iq
+year: 2026
+license: MIT
+repository-code: "https://github.com/Azad77/vegetation-climate-rs-review"
+keywords:
+  - remote sensing
+  - vegetation
+  - climate change
+  - systematic review
+  - PRISMA
+  - NDVI
+  - machine learning

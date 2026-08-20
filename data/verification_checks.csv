@@ -1,0 +1,333 @@
+Claim,Stated in manuscript,Recomputed from data,Result
+included studies,757.0,757.0,PASS
+full-text studies,455.0,455.0,PASS
+full-text share %,60.1,60.1,PASS
+journals,208.0,208.0,PASS
+studies 2019,47.0,47.0,PASS
+studies 2021,62.0,62.0,PASS
+studies 2022,87.0,87.0,PASS
+studies 2023,74.0,74.0,PASS
+studies 2024,120.0,120.0,PASS
+studies 2025,137.0,137.0,PASS
+2021-2025 total,480.0,480.0,PASS
+2021-2025 %,63.4,63.4,PASS
+max annual 2000-2011,11.0,11.0,PASS
+full text 2023-25,250.0,250.0,PASS
+included 2023-25,331.0,331.0,PASS
+full text <=2014,27.0,27.0,PASS
+included <=2014,98.0,98.0,PASS
+region East Asia,244.0,244.0,PASS
+region Europe,208.0,208.0,PASS
+region North America,147.0,147.0,PASS
+region South Asia,31.0,31.0,PASS
+region Middle East & N. Africa,30.0,30.0,PASS
+region Latin America,27.0,27.0,PASS
+region Sub-Saharan Africa,21.0,21.0,PASS
+region Southeast Asia,15.0,15.0,PASS
+region Oceania,15.0,15.0,PASS
+region Other / Unknown,19.0,19.0,PASS
+top3 regions %,79.1,79.1,PASS
+Global North M49,397.0,397.0,PASS
+Global North M49 %,52.4,52.4,PASS
+Global South M49,360.0,360.0,PASS
+Global South M49 %,47.6,47.6,PASS
+Global North +HI,421.0,421.0,PASS
+Global North +HI %,55.6,55.6,PASS
+Global South +HI %,44.4,44.4,PASS
+China first-author,208.0,208.0,PASS
+China %,27.5,27.5,PASS
+Global South excl China,152.0,152.0,PASS
+Global South excl China %,20.1,20.1,PASS
+SSA+SEA+LatAm %,8.3,8.3,PASS
+study area China,84.0,84.0,PASS
+study area United States,37.0,37.0,PASS
+study area Canada,18.0,18.0,PASS
+study area India,16.0,16.0,PASS
+study area Brazil,15.0,15.0,PASS
+sensor families,26.0,26.0,PASS
+sensor Landsat,234.0,234.0,PASS
+sensor MODIS,203.0,203.0,PASS
+sensor Sentinel-2,198.0,198.0,PASS
+sensor SAR (generic / other),119.0,119.0,PASS
+sensor Sentinel-1,90.0,90.0,PASS
+sensor Airborne / spaceborne LiDAR (generic),81.0,81.0,PASS
+sensor AVHRR / GIMMS,62.0,62.0,PASS
+sensor ALOS PALSAR,46.0,46.0,PASS
+sensor GEDI,26.0,26.0,PASS
+sensor ICESat / ICESat-2,14.0,14.0,PASS
+sensor Hyperion / EnMAP / PRISMA / DESIS,23.0,23.0,PASS
+sensor RADARSAT,6.0,6.0,PASS
+sensor TerraSAR-X / TanDEM-X,10.0,10.0,PASS
+"sensor OCO-2/3, GOSAT, GOME-2, TROPOMI",8.0,8.0,PASS
+sensor% Landsat,51.4,51.4,PASS
+sensor% MODIS,44.6,44.6,PASS
+sensor% Sentinel-2,43.5,43.5,PASS
+sensor% SAR (generic / other),26.2,26.2,PASS
+sensor% Sentinel-1,19.8,19.8,PASS
+sensor% Airborne / spaceborne LiDAR (generic),17.8,17.8,PASS
+sensor% AVHRR / GIMMS,13.6,13.6,PASS
+sensor% ALOS PALSAR,10.1,10.1,PASS
+sensor% GEDI,5.7,5.7,PASS
+sensor% ICESat / ICESat-2,3.1,3.1,PASS
+sensor% Hyperion / EnMAP / PRISMA / DESIS,5.1,5.1,PASS
+"sensor% OCO-2/3, GOSAT, GOME-2, TROPOMI",1.8,1.8,PASS
+SAR union,136.0,136.0,PASS
+SAR union %,29.9,29.9,PASS
+multi-sensor,286.0,286.0,PASS
+multi-sensor %,62.9,62.9,PASS
+any index,386.0,386.0,PASS
+any index %,84.8,84.8,PASS
+index NDVI,350.0,350.0,PASS
+index EVI,128.0,128.0,PASS
+index SAVI / MSAVI / OSAVI,67.0,67.0,PASS
+index NDWI,56.0,56.0,PASS
+index NDMI / LSWI,31.0,31.0,PASS
+index NBR / dNBR,29.0,29.0,PASS
+index EVI2,21.0,21.0,PASS
+index VCI,12.0,12.0,PASS
+index VHI,8.0,8.0,PASS
+index TCI,9.0,9.0,PASS
+index kNDVI,5.0,5.0,PASS
+index NIRv,6.0,6.0,PASS
+index% NDVI,76.9,76.9,PASS
+index% EVI,28.1,28.1,PASS
+index% SAVI / MSAVI / OSAVI,14.7,14.7,PASS
+index% NDWI,12.3,12.3,PASS
+index% NDMI / LSWI,6.8,6.8,PASS
+index% NBR / dNBR,6.4,6.4,PASS
+index% EVI2,4.6,4.6,PASS
+index% VCI,2.6,2.6,PASS
+drought index cluster studies,14.0,14.0,PASS
+product AGB / biomass product,99.0,99.0,PASS
+product LAI,85.0,85.0,PASS
+product ET / evapotranspiration,84.0,84.0,PASS
+product Soil moisture,75.0,75.0,PASS
+product GPP,39.0,39.0,PASS
+product NPP,21.0,21.0,PASS
+product SIF,18.0,18.0,PASS
+product% AGB / biomass product,21.8,21.8,PASS
+product% LAI,18.7,18.7,PASS
+product% ET / evapotranspiration,18.5,18.5,PASS
+product% Soil moisture,16.5,16.5,PASS
+product% GPP,8.6,8.6,PASS
+product% NPP,4.6,4.6,PASS
+product% SIF,4.0,4.0,PASS
+SIF earliest year,2021.0,2021.0,PASS
+method Random Forest,163.0,163.0,PASS
+method Linear / multiple regression,134.0,134.0,PASS
+method SVM / SVR,71.0,71.0,PASS
+method Gradient boosting / XGBoost / LightGBM,35.0,35.0,PASS
+method ANN / MLP,33.0,33.0,PASS
+method PLS / PLSR,17.0,17.0,PASS
+method Mann-Kendall / Sen slope,48.0,48.0,PASS
+method Time-series break detection (BFAST/LandTrendr/CCDC),16.0,16.0,PASS
+"method CNN (incl. ResNet, VGG, DeepLab)",24.0,24.0,PASS
+method U-Net,10.0,10.0,PASS
+method LSTM / GRU / RNN,10.0,10.0,PASS
+method Transformer / attention,4.0,4.0,PASS
+method Deep learning (generic),45.0,45.0,PASS
+method Explainable AI (SHAP/LIME),10.0,10.0,PASS
+method% Random Forest,35.8,35.8,PASS
+method% Linear / multiple regression,29.5,29.5,PASS
+method% SVM / SVR,15.6,15.6,PASS
+method% Gradient boosting / XGBoost / LightGBM,7.7,7.7,PASS
+method% ANN / MLP,7.3,7.3,PASS
+method% PLS / PLSR,3.7,3.7,PASS
+method% Mann-Kendall / Sen slope,10.5,10.5,PASS
+"method% CNN (incl. ResNet, VGG, DeepLab)",5.3,5.3,PASS
+method% U-Net,2.2,2.2,PASS
+method% LSTM / GRU / RNN,2.2,2.2,PASS
+method% Transformer / attention,0.9,0.9,PASS
+method% Deep learning (generic),9.9,9.9,PASS
+method% Explainable AI (SHAP/LIME),2.2,2.2,PASS
+GEE,125.0,125.0,PASS
+GEE %,27.5,27.5,PASS
+deep learning,52.0,52.0,PASS
+deep learning %,11.4,11.4,PASS
+any ML,208.0,208.0,PASS
+any ML %,45.7,45.7,PASS
+non-ML %,54.3,54.3,PASS
+DL pre-2020,0.0,0.0,PASS
+DL 2020-22 n,7.0,7.0,PASS
+2020-22 studies,128.0,128.0,PASS
+DL 2020-22 %,5.5,5.5,PASS
+DL 2023-25 n,45.0,45.0,PASS
+2023-25 studies,250.0,250.0,PASS
+DL 2023-25 %,18.0,18.0,PASS
+XAI earliest,2022.0,2022.0,PASS
+any climate,361.0,361.0,PASS
+any climate %,79.3,79.3,PASS
+climate Temperature,283.0,283.0,PASS
+climate Precipitation,279.0,279.0,PASS
+climate Drought (general),147.0,147.0,PASS
+climate Drought index (SPI/SPEI/PDSI/scPDSI),25.0,25.0,PASS
+climate Soil moisture,73.0,73.0,PASS
+climate Solar radiation / PAR,48.0,48.0,PASS
+climate Snow cover,25.0,25.0,PASS
+climate Permafrost,27.0,27.0,PASS
+climate Heatwave / extreme events,31.0,31.0,PASS
+climate Vapour pressure deficit,11.0,11.0,PASS
+climate Atmospheric CO2,19.0,19.0,PASS
+climate% Temperature,62.2,62.2,PASS
+climate% Precipitation,61.3,61.3,PASS
+climate% Drought (general),32.3,32.3,PASS
+climate% Drought index (SPI/SPEI/PDSI/scPDSI),5.5,5.5,PASS
+climate% Soil moisture,16.0,16.0,PASS
+climate% Solar radiation / PAR,10.5,10.5,PASS
+climate% Snow cover,5.5,5.5,PASS
+climate% Permafrost,5.9,5.9,PASS
+climate% Heatwave / extreme events,6.8,6.8,PASS
+climate% Vapour pressure deficit,2.4,2.4,PASS
+climate% Atmospheric CO2,4.2,4.2,PASS
+domain Phenology,148.0,148.0,PASS
+domain Biomass & carbon stock,109.0,109.0,PASS
+domain Greening / browning trends,103.0,103.0,PASS
+domain Land cover / land use change,101.0,101.0,PASS
+domain Carbon & water flux,87.0,87.0,PASS
+domain Drought stress & vegetation response,47.0,47.0,PASS
+domain Wildfire & post-fire recovery,47.0,47.0,PASS
+domain Vegetation degradation & restoration,38.0,38.0,PASS
+domain Crop yield & agriculture,32.0,32.0,PASS
+domain Species distribution & biodiversity,7.0,7.0,PASS
+domain% Phenology,32.5,32.5,PASS
+domain% Biomass & carbon stock,24.0,24.0,PASS
+domain% Greening / browning trends,22.6,22.6,PASS
+domain% Land cover / land use change,22.2,22.2,PASS
+domain% Carbon & water flux,19.1,19.1,PASS
+domain% Drought stress & vegetation response,10.3,10.3,PASS
+domain% Wildfire & post-fire recovery,10.3,10.3,PASS
+domain% Vegetation degradation & restoration,8.4,8.4,PASS
+domain% Crop yield & agriculture,7.0,7.0,PASS
+domain% Species distribution & biodiversity,1.5,1.5,PASS
+primary phenology,111.0,111.0,PASS
+primary phenology %,24.4,24.4,PASS
+primary biomass,94.0,94.0,PASS
+primary biomass %,20.7,20.7,PASS
+primary unclassified,54.0,54.0,PASS
+primary unclassified %,11.9,11.9,PASS
+biome assignable,426.0,426.0,PASS
+biome assignable %,93.6,93.6,PASS
+forest primary,206.0,206.0,PASS
+forest primary %,45.3,45.3,PASS
+forest unspecified,172.0,172.0,PASS
+forest tropical,19.0,19.0,PASS
+forest temperate,10.0,10.0,PASS
+forest boreal,5.0,5.0,PASS
+primary biome Cropland / agriculture,52.0,52.0,PASS
+primary biome% Cropland / agriculture,11.4,11.4,PASS
+primary biome Wetland (non-peat),45.0,45.0,PASS
+primary biome% Wetland (non-peat),9.9,9.9,PASS
+primary biome Grassland / steppe,43.0,43.0,PASS
+primary biome% Grassland / steppe,9.5,9.5,PASS
+primary biome Tundra / alpine,24.0,24.0,PASS
+primary biome% Tundra / alpine,5.3,5.3,PASS
+primary biome Desert / dryland,26.0,26.0,PASS
+primary biome% Desert / dryland,5.7,5.7,PASS
+primary biome Savanna,11.0,11.0,PASS
+primary biome% Savanna,2.4,2.4,PASS
+primary biome Shrubland,8.0,8.0,PASS
+primary biome% Shrubland,1.8,1.8,PASS
+primary biome Peatland,6.0,6.0,PASS
+primary biome% Peatland,1.3,1.3,PASS
+primary biome Urban vegetation,5.0,5.0,PASS
+primary biome% Urban vegetation,1.1,1.1,PASS
+dryland mentions,78.0,78.0,PASS
+dryland mentions %,17.1,17.1,PASS
+peatland mentions,12.0,12.0,PASS
+peatland mentions %,2.6,2.6,PASS
+under-represented biomes,51.0,51.0,PASS
+under-represented %,11.2,11.2,PASS
+code repo,40.0,40.0,PASS
+code repo %,8.8,8.8,PASS
+data repo,34.0,34.0,PASS
+data repo %,7.5,7.5,PASS
+code on request,94.0,94.0,PASS
+code on request %,20.7,20.7,PASS
+data on request,97.0,97.0,PASS
+data on request %,21.3,21.3,PASS
+data stmt no link,173.0,173.0,PASS
+data stmt no link %,38.0,38.0,PASS
+code not stated,314.0,314.0,PASS
+code not stated %,69.0,69.0,PASS
+data not stated,151.0,151.0,PASS
+data not stated %,33.2,33.2,PASS
+code unavailable,5.0,5.0,PASS
+code unavailable %,1.1,1.1,PASS
+code repo % pre-2015,0.0,0.0,PASS
+code repo % 2015-2019,2.0,2.0,PASS
+code repo % 2020-2022,7.0,7.0,PASS
+code repo % 2023-2025,12.0,12.0,PASS
+data repo % pre-2015,3.7,3.7,PASS
+data repo % 2015-2019,4.0,4.0,PASS
+data repo % 2020-2022,5.5,5.5,PASS
+data repo % 2023-2025,9.6,9.6,PASS
+r2 studies,186.0,186.0,PASS
+r2 %,40.9,40.9,PASS
+rmse studies,121.0,121.0,PASS
+rmse %,26.6,26.6,PASS
+mae studies,27.0,27.0,PASS
+mae %,5.9,5.9,PASS
+oa studies,68.0,68.0,PASS
+oa %,14.9,14.9,PASS
+kappa studies,27.0,27.0,PASS
+kappa %,5.9,5.9,PASS
+f1 studies,12.0,12.0,PASS
+f1 %,2.6,2.6,PASS
+total R2 values,1408.0,1408.0,PASS
+median within-study R2,0.71,0.71,PASS
+R2 Q1,0.57,0.57,PASS
+R2 Q3,0.82,0.82,PASS
+median study max R2,0.85,0.85,PASS
+OA median,88.0,88.0,PASS
+OA Q1,78.0,78.0,PASS
+OA Q3,92.8,92.8,PASS
+kappa median,0.82,0.82,PASS
+R2 domain n Crop yield & agriculture,4.0,4.0,PASS
+R2 domain med Crop yield & agriculture,0.88,0.88,PASS
+R2 domain n Land cover / land use change,8.0,8.0,PASS
+R2 domain med Land cover / land use change,0.79,0.79,PASS
+R2 domain n Phenology,39.0,39.0,PASS
+R2 domain med Phenology,0.76,0.76,PASS
+R2 domain n Carbon & water flux,17.0,17.0,PASS
+R2 domain med Carbon & water flux,0.72,0.72,PASS
+R2 domain n Biomass & carbon stock,68.0,68.0,PASS
+R2 domain med Biomass & carbon stock,0.71,0.71,PASS
+R2 domain n Drought stress & vegetation response,9.0,9.0,PASS
+R2 domain med Drought stress & vegetation response,0.57,0.57,PASS
+biomass RMSE studies,34.0,34.0,PASS
+biomass RMSE values,193.0,193.0,PASS
+biomass RMSE median,27.2,27.2,PASS
+biomass RMSE Q1,14.5,14.5,PASS
+biomass RMSE Q3,45.5,45.5,PASS
+sought for retrieval (rows),1482.0,1482.0,PASS
+records with no DOI,25.0,25.0,PASS
+full text retrieved,572.0,572.0,PASS
+  retrieved -> included,455.0,455.0,PASS
+  retrieved -> excluded,117.0,117.0,PASS
+full text NOT retrieved,910.0,910.0,PASS
+  not retrieved -> retained,302.0,302.0,PASS
+  not retrieved -> excluded,608.0,608.0,PASS
+excluded total,725.0,725.0,PASS
+  failed a stated criterion,458.0,458.0,PASS
+  could not be assessed,124.0,124.0,PASS
+  no decision logged,143.0,143.0,PASS
+retrieval rate %,38.6,38.6,PASS
+cached INCLUDE not in final corpus,85.0,85.0,PASS
+review articles in full-text corpus,20.0,20.0,PASS
+review share %,4.4,4.4,PASS
+primary studies,435.0,435.0,PASS
+max sensitivity shift (pp),1.9,1.9,PASS
+sens Landsat all %,51.4,51.4,PASS
+sens Landsat primary %,50.3,50.3,PASS
+sens MODIS all %,44.6,44.6,PASS
+sens MODIS primary %,44.1,44.1,PASS
+sens Sentinel-2 all %,43.5,43.5,PASS
+sens Sentinel-2 primary %,42.5,42.5,PASS
+sens NDVI all %,76.9,76.9,PASS
+sens NDVI primary %,76.3,76.3,PASS
+sens Random Forest all %,35.8,35.8,PASS
+sens Random Forest primary %,35.2,35.2,PASS
+sens Any deep learning all %,11.4,11.4,PASS
+sens Any deep learning primary %,10.6,10.6,PASS
+"mean sensor families, reviews",6.6,6.6,PASS
+"mean sensor families, primary",2.71,2.71,PASS
