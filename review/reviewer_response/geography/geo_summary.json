@@ -1,0 +1,48 @@
+{
+ "land_km2": 146653493.19473207,
+ "biome_label_check": [
+  25,
+  38
+ ],
+ "study_area_check": null,
+ "n_single": 337,
+ "n_multi": 12,
+ "n_global": 10,
+ "n_undet": 10,
+ "same_country_pct": 63.8,
+ "gs_n": 196,
+ "gs_gn_author": 55,
+ "gs_same_country": 125,
+ "gn_n": 141,
+ "gn_gs_author": 16,
+ "china_study": 78,
+ "china_study_china_author": 70,
+ "author_vs_study_region": {
+  "first_author_455": {
+   "Central Asia": 2,
+   "East Asia": 109,
+   "Europe": 131,
+   "Latin America": 8,
+   "Middle East & N. Africa": 18,
+   "North America": 55,
+   "Oceania": 7,
+   "Other / Unknown": 0,
+   "South Asia": 8,
+   "Southeast Asia": 18,
+   "Sub-Saharan Africa": 13
+  },
+  "study_area_single_country": {
+   "Central Asia": 2,
+   "East Asia": 84,
+   "Europe": 84,
+   "Latin America": 19,
+   "Middle East & N. Africa": 22,
+   "North America": 46,
+   "Oceania": 11,
+   "Other / Unknown": 8,
+   "South Asia": 17,
+   "Southeast Asia": 17,
+   "Sub-Saharan Africa": 27
+  }
+ }
+}

@@ -1,0 +1,7 @@
+﻿Group,Records (with DOI),With OpenAlex abstract,Meet abstract-assessable criteria,% meeting,95% CI
+Excluded at title screening,2433,1629,1415,86.9,85.1-88.4
+  no remote sensing term in title,2014,1322,1161,87.8,85.9-89.5
+  no vegetation term in title,417,305,252,82.6,78.0-86.5
+Excluded at title-and-abstract screening,663,286,220,76.9,71.7-81.4
+"Included, Tier 1 (reference)",425,156,145,92.9,87.8-96.0
+"Included, Tier 2 (reference)",369,115,106,92.2,85.8-95.8

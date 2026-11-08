@@ -1,0 +1,18 @@
+{"_note": "Reading of the 16 validation-sample studies that report R2 (Reviewer 1, comment 5). kind = what the R2 measures; design = validation design actually described. Classifier target: any independent test of a model or product against data not used in fitting.",
+"10.1038/s41598-025-02360-w": {"kind": "Association statistic", "design": "None detected", "note": "R2 of NDVI trend line"},
+"10.3390/rs17091591": {"kind": "Association statistic", "design": "None detected", "note": "R2 between PRI and S-1 water content / other indices"},
+"10.1038/s41598-024-72624-4": {"kind": "Predictive model", "design": "Independent hold-out test", "note": "70:30 split; training and test R2 reported side by side"},
+"10.3390/rs16214025": {"kind": "Agreement with reference data", "design": "Independent reference data", "note": "ice phenology vs hydrological records; also curve-fit R2"},
+"10.1016/j.geosus.2023.11.006": {"kind": "Association statistic", "design": "None detected", "note": "LST-NDVI R2"},
+"10.1016/j.rse.2023.113968": {"kind": "Predictive model", "design": "Independent hold-out test", "note": "train/validation/test split"},
+"10.1016/j.scitotenv.2023.163114": {"kind": "Association statistic", "design": "Cross-validation only", "note": "explanatory regression with LOO predicted R2"},
+"10.3390/f14050992": {"kind": "Predictive model", "design": "None detected", "note": "calibration fit of regression models"},
+"10.3390/land12020284": {"kind": "Predictive model", "design": "Independent hold-out test", "note": "80/20 split, R2 on validation subset"},
+"10.3390/agronomy12092181": {"kind": "Association statistic", "design": "None detected", "note": "VI vs physiological variables"},
+"10.1016/j.geogeo.2022.100075": {"kind": "Association statistic", "design": "None detected", "note": "NDVI vs rainfall anomaly"},
+"10.3390/rs14071608": {"kind": "Predictive model", "design": "Cross-validation only", "note": "LOOCV"},
+"10.3390/rs14041039": {"kind": "Predictive model", "design": "Independent hold-out test", "note": "10-fold CV for model comparison plus 5% hold-out; most R2 values are CV"},
+"10.3390/rs13142711": {"kind": "Agreement with reference data", "design": "Independent reference data", "note": "vs MODIS snow product and Landsat"},
+"10.1016/j.rse.2020.111685": {"kind": "Agreement with reference data", "design": "Independent reference data", "note": "vs PhenoCam dates"},
+"10.1111/j.1469-8137.2010.03355.x": {"kind": "Association statistic", "design": "None detected", "note": "correlation of VIs with climate"}
+}

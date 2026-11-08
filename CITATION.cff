@@ -4,9 +4,10 @@ title: "From NDVI to Neural Networks: A Systematic Review of Satellite Remote Se
 authors:
   - family-names: Rasul
     given-names: Azad
-    affiliation: Soran University
+    affiliation: "Soran University; Salahaddin University-Erbil"
     email: azad.rasul@soran.edu.iq
 year: 2026
+version: "2.0.0"
 license: MIT
 repository-code: "https://github.com/Azad77/vegetation-climate-rs-review"
 keywords:

@@ -1,0 +1,30 @@
+{
+ "included_with_abstract": 566,
+ "included_matching_query_on_abstract": 422,
+ "retrieval_dependent_on_index_terms": 91,
+ "dependent_pct": 21.6,
+ "benchmark_n": 762,
+ "benchmark_not_retrieved_n": 608,
+ "abstract_share": {
+  "NDVI": {
+   "included": 47.0,
+   "benchmark": 36.2,
+   "benchmark_not_retrieved": 34.2
+  },
+  "EVI": {
+   "included": 11.3,
+   "benchmark": 8.1,
+   "benchmark_not_retrieved": 7.7
+  },
+  "LAI": {
+   "included": 5.5,
+   "benchmark": 6.0,
+   "benchmark_not_retrieved": 6.6
+  },
+  "SIF": {
+   "included": 1.9,
+   "benchmark": 3.3,
+   "benchmark_not_retrieved": 3.9
+  }
+ }
+}

@@ -1,0 +1,18 @@
+﻿Stage,Description,n
+Identification,Records retrieved from Scopus,4794
+Identification,Duplicates removed,6
+Screening,Records screened by document type,4788
+Screening,Excluded: not a journal article or review,844
+Screening,Records screened on title (keyword classifier),3944
+Screening,Excluded at title screening,2462
+Eligibility,Records assessed on title and abstract,1482
+Eligibility,  with abstract,1265
+Eligibility,  title and bibliographic metadata only,217
+Eligibility,Excluded: No climate driver or climate-related vegetation response,286
+Eligibility,Excluded: No vegetation variable analysed,194
+Eligibility,Excluded: Satellite remote sensing not the primary data source,109
+Eligibility,Excluded: Non-English publication (journal language),74
+Eligibility,"Excluded: Uncertain, conservatively excluded",8
+Included,Studies included,811
+Included,  full text obtained and extracted (Tier 2),369
+Included,  bibliographic record only (Tier 1),442

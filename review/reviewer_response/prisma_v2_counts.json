@@ -1,0 +1,12 @@
+{
+ "n_abs": 1265,
+ "n_inc": 811,
+ "n_t2": 369,
+ "excluded": {
+  "No climate driver or climate-related vegetation response": 286,
+  "No vegetation variable analysed": 194,
+  "Satellite remote sensing not the primary data source": 109,
+  "Non-English publication (journal language)": 74,
+  "Uncertain, conservatively excluded": 8
+ }
+}

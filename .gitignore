@@ -5,3 +5,12 @@ pdfs/
 pdf_text/
 *.docx
 ~$*
+# regenerated locally; contain abstracts or full-text passages that cannot be redistributed
+review/reviewer_response/openalex_cache.json
+review/reviewer_response/openalex_included_cache.json
+review/reviewer_response/screening_v2/abstracts.json
+review/reviewer_response/screening_v2/records_with_abstracts.csv
+review/reviewer_response/screening_v2/screening_sheet.csv
+review/reviewer_response/validation/kwic_sample.json
+review/reviewer_response/design/design_kwic.txt
+data/step5_abstract_cache.json

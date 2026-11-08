@@ -1,0 +1,8 @@
+{"_note": "Primary-biome label judged against the reading of the 40 validation-sample studies (1 = label is the best-fitting class, 0 = not). S11 review and S38 PDF-linkage error excluded.",
+"S01":[1,"tropical forest"],"S02":[0,"forest, labelled grassland"],"S03":[1,""],"S04":[0,"multi-biome East Asia, labelled forest"],"S05":[1,""],"S06":[1,""],
+"S07":[0,"coastal dunes, labelled forest"],"S08":[1,"urban"],"S09":[0,"multi-biome continental, labelled cropland"],"S10":[1,"dryland"],
+"S12":[0,"lake ice, labelled tundra/alpine"],"S13":[0,"montane grassland/forest mosaic, labelled forest"],"S14":[1,""],"S15":[1,""],
+"S16":[0,"Mediterranean shrubland, unclassified"],"S17":[1,""],"S18":[1,""],"S19":[1,""],"S20":[0,"multi-biome land cover, labelled forest"],
+"S21":[1,"cropland/forage"],"S22":[1,""],"S23":[1,""],"S24":[1,"drylands"],"S25":[1,""],"S26":[1,""],"S27":[0,"Pantanal wetland-savanna, labelled forest"],
+"S28":[0,"rice cropland, unclassified"],"S29":[1,"lake ice, unclassified"],"S30":[0,"mixed river basin, labelled cropland"],"S31":[1,""],
+"S32":[0,"tropical peatland, labelled forest"],"S33":[1,""],"S34":[1,""],"S35":[1,""],"S36":[1,""],"S37":[0,"sorghum cropland, unclassified"],"S39":[1,""],"S40":[1,""]}

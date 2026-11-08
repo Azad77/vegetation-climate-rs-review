@@ -1,0 +1,11 @@
+﻿domain_primary,Independent hold-out test,Spatially independent test,Cross-validation only,None detected,Total
+Biomass & carbon stock,43,0,11,17,71
+Phenology,8,1,3,21,33
+Carbon & water flux,7,0,0,9,16
+Greening / browning trends,2,0,0,12,14
+Unclassified,6,0,2,1,9
+Drought stress & vegetation response,3,0,1,4,8
+Wildfire & post-fire recovery,4,0,0,2,6
+Land cover / land use change,1,0,1,2,4
+Vegetation degradation & restoration,0,0,0,2,2
+All domains,74,1,18,70,163

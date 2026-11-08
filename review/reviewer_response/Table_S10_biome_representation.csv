@@ -1,0 +1,12 @@
+﻿Class,Studies_primary,Study_share_pct,Land_share_pct,Ratio,Ratio_CI,Land_share_source
+Forest (all types),181,49.1,38.1,1.29,1.15-1.42,RESOLVE biomes 1-6
+Grassland / steppe,46,12.5,7.2,1.73,1.31-2.25,"RESOLVE biome 8 (temperate grasslands, savannas & shrublands)"
+Savanna,14,3.8,14.6,0.26,0.16-0.43,"RESOLVE biome 7 (tropical & subtropical grasslands, savannas & shrublands)"
+Shrubland (Mediterranean-type),6,1.6,2.3,0.72,0.33-1.55,"RESOLVE biome 12 (Mediterranean forests, woodlands & scrub)"
+Desert / dryland (biome),29,7.9,18.0,0.44,0.31-0.61,RESOLVE biome 13 (deserts & xeric shrublands)
+Tundra / alpine,23,6.2,18.8,0.33,0.22-0.49,RESOLVE biomes 10-11 (montane grasslands; tundra)
+"Wetland (non-peat, incl. mangrove)",25,6.8,1.0,6.67,4.56-9.66,RESOLVE biomes 9 and 14 (flooded grasslands; mangroves)
+Cropland (land use),23,6.2,12.0,0.52,0.35-0.76,"FAO (2023): ~12% of land area, 2021"
+Peatland (land cover),2,0.5,2.8,0.19,0.05-0.69,Xu et al. (2018): 2.84% of land area
+"Drylands, aridity-defined (any mention)",82,22.2,41.3,0.54,0.44-0.65,MEA (Safriel & Adeel 2005): 41.3%; classes overlap
+Peatland (any mention),5,1.4,2.84,0.48,0.20-1.10,Xu et al. (2018)

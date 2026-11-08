@@ -1,0 +1,17 @@
+﻿doi,design,reference_kind,reference_design,agree_independent_test,note
+10.1038/s41598-025-02360-w,None detected,Association statistic,None detected,1,R2 of NDVI trend line
+10.1016/j.scitotenv.2023.163114,Cross-validation only,Association statistic,Cross-validation only,1,explanatory regression with LOO predicted R2
+10.3390/f14050992,None detected,Predictive model,None detected,1,calibration fit of regression models
+10.1016/j.geogeo.2022.100075,None detected,Association statistic,None detected,1,NDVI vs rainfall anomaly
+10.3390/rs14071608,Cross-validation only,Predictive model,Cross-validation only,1,LOOCV
+10.3390/rs14041039,Independent hold-out test,Predictive model,Independent hold-out test,1,10-fold CV for model comparison plus 5% hold-out; most R2 values are CV
+10.1016/j.rse.2020.111685,None detected,Agreement with reference data,Independent reference data,0,vs PhenoCam dates
+10.1111/j.1469-8137.2010.03355.x,None detected,Association statistic,None detected,1,correlation of VIs with climate
+10.3390/rs17091591,None detected,Association statistic,None detected,1,R2 between PRI and S-1 water content / other indices
+10.1038/s41598-024-72624-4,Independent hold-out test,Predictive model,Independent hold-out test,1,70:30 split; training and test R2 reported side by side
+10.3390/rs16214025,None detected,Agreement with reference data,Independent reference data,0,ice phenology vs hydrological records; also curve-fit R2
+10.1016/j.geosus.2023.11.006,None detected,Association statistic,None detected,1,LST-NDVI R2
+10.1016/j.rse.2023.113968,Independent hold-out test,Predictive model,Independent hold-out test,1,train/validation/test split
+10.3390/land12020284,Independent hold-out test,Predictive model,Independent hold-out test,1,"80/20 split, R2 on validation subset"
+10.3390/agronomy12092181,None detected,Association statistic,None detected,1,VI vs physiological variables
+10.3390/rs13142711,None detected,Agreement with reference data,Independent reference data,0,vs MODIS snow product and Landsat

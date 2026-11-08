@@ -1,0 +1,41 @@
+{
+ "n_studies": 40,
+ "n_decisions": 600,
+ "n_judged_from_text": 216,
+ "domain_correct": 32,
+ "domain_pct": 80.0,
+ "domain_ci": [
+  65.2,
+  89.5
+ ],
+ "pooled": {
+  "Classification": "Pooled: all 15 classifications",
+  "TP": 122,
+  "FP": 36,
+  "FN": 12,
+  "TN": 430,
+  "Accuracy": 92.0,
+  "Precision": 77.2,
+  "Recall": 91.0,
+  "Kappa": 0.78,
+  "Extracted_pct": 26.3,
+  "Reference_pct": 22.3
+ },
+ "pooled_excl_review": {
+  "Classification": "Pooled: all 15, excluding the review article",
+  "TP": 122,
+  "FP": 26,
+  "FN": 12,
+  "TN": 425,
+  "Accuracy": 93.5,
+  "Precision": 82.4,
+  "Recall": 91.0,
+  "Kappa": 0.82,
+  "Extracted_pct": 25.3,
+  "Reference_pct": 22.9
+ },
+ "fp_review": 10,
+ "pdf_linkage_errors": [
+  "S38"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "cited_dois": 5636,
+ "with_metadata": 4890,
+ "benchmark_n": 762,
+ "retrieved": 154,
+ "recall_pct": 20.2,
+ "recall_ci": [
+  17.5,
+  23.2
+ ],
+ "miss_no_climate_change_phrase": 457,
+ "miss_query_logic_fails": 588,
+ "miss_query_logic_matches": 20,
+ "recall_with_cc_phrase": [
+  284,
+  133,
+  46.8,
+  [
+   41.1,
+   52.6
+  ]
+ ],
+ "recall_without_cc_phrase": [
+  478,
+  21,
+  4.4,
+  [
+   2.9,
+   6.6
+  ]
+ ],
+ "recall_when_query_logic_matches": [
+  141,
+  121,
+  85.8
+ ],
+ "recall_by_period": {
+  "(1999, 2009]": [
+   6,
+   73,
+   8.2
+  ],
+  "(2009, 2014]": [
+   12,
+   105,
+   11.4
+  ],
+  "(2014, 2019]": [
+   30,
+   206,
+   14.6
+  ],
+  "(2019, 2025]": [
+   106,
+   378,
+   28.0
+  ]
+ },
+ "benchmark_retrieved_fate": {
+  "Included": 75,
+  "Excluded: title screening": 50,
+  "Excluded: title-and-abstract screening": 27,
+  "Excluded: document type": 2
+ },
+ "screening_sensitivity": [
+  75,
+  152,
+  49.3,
+  [
+   41.5,
+   57.2
+  ]
+ ]
+}

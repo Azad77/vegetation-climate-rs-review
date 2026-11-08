@@ -1,0 +1,370 @@
+﻿doi,year,domain_primary,r2_n,r2_median,r2_max,design,Q1_data_documented,Q2_independent_test,Q3_uncertainty_reported,Q4_repository,Q5_metric_reported,quality_score
+10.17707/agricultforest.71.4.02,2025,Biomass & carbon stock,7,0.7201,0.75,None detected,0,0,0,0,1,1
+10.1007/s44274-025-00321-8,2025,Drought stress & vegetation response,0,,,None detected,0,0,1,0,1,2
+10.1016/j.agrformet.2025.110855,2025,Drought stress & vegetation response,0,,,Independent hold-out test,0,1,0,0,1,2
+10.1016/j.isci.2025.114053,2025,Biomass & carbon stock,15,0.8952,0.98,None detected,0,0,1,1,1,3
+10.1038/s41598-025-02360-w,2025,Greening / browning trends,8,0.85,0.9,None detected,1,0,0,0,1,2
+10.1016/j.ecoinf.2025.103277,2025,Biomass & carbon stock,0,,,Independent hold-out test,0,1,1,1,1,4
+10.1038/s41598-025-18891-1,2025,Biomass & carbon stock,10,0.735,0.74,Independent hold-out test,1,1,1,0,1,4
+10.1007/s42452-025-07879-1,2025,Land cover / land use change,1,0.73,0.73,Cross-validation only,1,0,1,0,1,3
+10.1088/1748-9326/ae2491,2025,Unclassified,0,,,None detected,0,0,1,0,0,1
+10.1016/j.ecolind.2025.114469,2025,Phenology,14,0.725,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1007/s13201-025-02631-x,2025,Drought stress & vegetation response,4,0.59765,0.8073,None detected,0,0,1,0,1,2
+10.1016/j.rsase.2025.101737,2025,Phenology,0,,,Cross-validation only,1,0,1,0,1,3
+10.1016/j.ecolind.2025.114299,2025,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1016/j.ecolind.2025.114343,2025,Carbon & water flux,1,0.7573,0.7573,None detected,1,0,0,0,1,2
+10.3390/f16111645,2025,Greening / browning trends,0,,,None detected,1,0,1,0,0,2
+10.1016/j.asr.2025.07.044,2025,Wildfire & post-fire recovery,0,,,None detected,0,0,0,0,0,0
+10.3390/rs17213506,2025,Unclassified,3,0.71,0.71,Independent hold-out test,0,1,1,0,1,3
+10.3390/f16101517,2025,Biomass & carbon stock,11,0.72,0.735,Independent hold-out test,1,1,1,0,1,4
+10.1029/2024jg008267,2025,Phenology,0,,,None detected,1,0,1,1,0,3
+10.3390/f16101612,2025,Biomass & carbon stock,8,0.528,0.88,Cross-validation only,1,0,1,0,1,3
+10.1016/j.agwat.2025.109826,2025,Drought stress & vegetation response,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1016/j.jenvman.2025.127197,2025,Biomass & carbon stock,4,0.325,0.63,Independent hold-out test,1,1,1,1,1,5
+10.3390/rs17173018,2025,Greening / browning trends,0,,,Independent hold-out test,0,1,1,0,0,2
+10.1016/j.ecolind.2025.113889,2025,Biomass & carbon stock,11,0.638,1.0,Independent hold-out test,1,1,1,0,1,4
+10.3390/geomatics5030030,2025,Biomass & carbon stock,0,,,Independent hold-out test,0,1,1,0,1,3
+10.3390/coasts5030033,2025,Biomass & carbon stock,7,0.707,0.728,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.jag.2025.104783,2025,Carbon & water flux,0,,,Independent hold-out test,1,1,1,1,1,5
+10.1016/j.ecoinf.2025.103144,2025,Carbon & water flux,0,,,Independent hold-out test,0,1,1,0,0,2
+10.1029/2024ef005446,2025,Unclassified,3,0.9288,0.9614,Independent hold-out test,1,1,1,1,1,5
+10.1016/j.ecolind.2025.114038,2025,Phenology,0,,,None detected,1,0,0,0,0,1
+10.3390/rs17162822,2025,Wildfire & post-fire recovery,0,,,None detected,1,0,0,0,0,1
+10.5194/bg-22-4291-2025,2025,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,1,1,5
+10.3390/rs17162749,2025,Carbon & water flux,5,0.841,1.0,Independent hold-out test,0,1,1,1,1,4
+10.3390/rs17162839,2025,Carbon & water flux,1,0.72,0.72,Independent hold-out test,1,1,1,0,1,4
+10.48084/etasr.11188,2025,Greening / browning trends,0,,,Independent hold-out test,0,1,0,0,1,2
+10.3390/f16071164,2025,Biomass & carbon stock,10,0.71,0.81,Independent hold-out test,1,1,0,0,1,3
+10.3390/rs17142503,2025,Phenology,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1016/j.ecoinf.2025.103113,2025,Unclassified,0,,,Independent hold-out test,1,1,1,1,0,4
+10.1016/j.jag.2025.104614,2025,Biomass & carbon stock,19,0.47,0.75,Cross-validation only,1,0,1,0,1,3
+10.3390/rs17121979,2025,Wildfire & post-fire recovery,1,0.708,0.708,None detected,1,0,0,0,1,2
+10.1016/j.srs.2025.100204,2025,Biomass & carbon stock,9,0.66,0.86,Independent hold-out test,1,1,1,0,1,4
+10.3390/d17060420,2025,Land cover / land use change,13,0.76,0.94,None detected,0,0,0,0,1,1
+10.1016/j.srs.2024.100181,2025,Biomass & carbon stock,7,0.72,0.82,None detected,1,0,1,0,1,3
+10.1016/j.srs.2025.100207,2025,Carbon & water flux,6,0.8514999999999999,0.875,None detected,1,0,1,0,1,3
+10.1007/s10661-025-14089-0,2025,Land cover / land use change,6,0.7849999999999999,0.83,Independent hold-out test,1,1,1,0,1,4
+10.3390/s25103097,2025,Wildfire & post-fire recovery,0,,,None detected,0,0,0,0,0,0
+10.3390/atmos16050501,2025,Greening / browning trends,0,,,Cross-validation only,1,0,1,1,0,3
+10.3390/rs17091513,2025,Phenology,15,0.71,0.9,Independent hold-out test,0,1,1,0,1,3
+10.1016/j.rse.2025.114650,2025,Phenology,0,,,Cross-validation only,1,0,1,0,0,2
+10.1016/j.ecoinf.2025.103074,2025,Phenology,0,,,Independent hold-out test,1,1,1,0,1,4
+10.36868/ijcs.2025.02.27,2025,Biomass & carbon stock,3,0.21,0.24,Independent hold-out test,1,1,0,0,1,3
+10.3390/rs17081404,2025,Drought stress & vegetation response,36,0.73,0.87,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2025.113429,2025,Carbon & water flux,10,0.71,1.0,Independent hold-out test,0,1,1,0,1,3
+10.3390/rs17081428,2025,Biomass & carbon stock,5,0.92,0.92,Independent hold-out test,1,1,1,0,1,4
+10.3390/land14040793,2025,Wildfire & post-fire recovery,0,,,None detected,0,0,0,0,0,0
+10.1016/j.envres.2025.120959,2025,Greening / browning trends,4,0.95,0.98,None detected,0,0,0,0,1,1
+10.3390/rs17061063,2025,Biomass & carbon stock,23,0.74,1.0,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs17050934,2025,Biomass & carbon stock,6,0.766,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1007/s10021-025-00966-9,2025,Wildfire & post-fire recovery,0,,,None detected,1,0,0,0,0,1
+10.3390/su17062618,2025,Carbon & water flux,17,0.0192,0.0819,None detected,1,0,0,0,1,2
+10.21163/gt_2025.201.02,2025,Unclassified,0,,,None detected,0,0,0,0,0,0
+10.21163/gt_2025.201.04,2025,Biomass & carbon stock,1,0.843,0.843,None detected,0,0,1,0,1,2
+10.3390/fire8020047,2025,Wildfire & post-fire recovery,0,,,None detected,0,0,1,0,0,1
+10.1088/1748-9326/adb04f,2025,Phenology,11,0.47,0.82,None detected,0,0,1,1,1,3
+10.1016/j.jag.2024.104289,2025,Carbon & water flux,1,0.64,0.64,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2025.113115,2025,Phenology,1,0.93,0.93,None detected,0,0,1,0,1,2
+10.1080/21580103.2025.2602471,2025,Drought stress & vegetation response,0,,,Cross-validation only,1,0,1,0,1,3
+10.1080/01431161.2025.2546154,2025,Wildfire & post-fire recovery,3,0.97,0.97,Independent hold-out test,1,1,1,1,1,5
+10.1080/01431161.2025.2536884,2025,Greening / browning trends,0,,,Independent hold-out test,1,1,1,1,1,5
+10.1111/jbi.15024,2025,Greening / browning trends,2,0.72,0.74,None detected,0,0,1,0,1,2
+10.48084/etasr.14335,2025,Biomass & carbon stock,7,0.65,0.787,Independent hold-out test,1,1,1,0,1,4
+10.1109/jstars.2025.3528429,2025,Unclassified,8,0.83,0.93,Independent hold-out test,1,1,1,0,1,4
+10.29227/im-2025-02-75,2025,Drought stress & vegetation response,0,,,Independent hold-out test,1,1,0,0,0,2
+10.1109/jstars.2025.3611427,2025,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,0,1,4
+10.3390/f16010096,2025,Biomass & carbon stock,19,0.44,1.0,Cross-validation only,0,0,1,0,1,2
+10.1080/10106049.2025.2509874,2025,Carbon & water flux,0,,,None detected,0,0,0,0,0,0
+10.1111/plb.70036,2025,Drought stress & vegetation response,0,,,None detected,1,0,0,1,0,2
+10.3390/su17010123,2025,Biomass & carbon stock,1,0.906,0.906,None detected,1,0,0,0,1,2
+10.26471/cjees/2025/020/310,2025,Drought stress & vegetation response,0,,,None detected,1,0,0,0,0,1
+10.3389/frsen.2025.1666123,2025,Biomass & carbon stock,1,0.84,0.84,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.aosl.2024.100511,2025,Land cover / land use change,0,,,None detected,0,0,0,0,0,0
+10.24425/jwld.2025.156049,2025,Biomass & carbon stock,1,0.71,0.71,None detected,1,0,1,0,1,3
+10.13057/asianjfor/r090202,2025,Biomass & carbon stock,3,0.46,0.69,Independent hold-out test,1,1,1,1,1,5
+10.1080/19475683.2025.2523737,2025,Biomass & carbon stock,18,0.65,0.67,Independent hold-out test,0,1,1,1,1,4
+10.1080/15481603.2025.2555024,2025,Biomass & carbon stock,14,0.755,0.86,Independent hold-out test,1,1,1,0,1,4
+10.3897/ved.177152,2025,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1016/j.rse.2024.114475,2024,Unclassified,0,,,Spatially independent test,1,1,1,1,0,4
+10.3390/rs16244769,2024,Vegetation degradation & restoration,0,,,Cross-validation only,1,0,0,0,1,2
+10.1016/j.pce.2024.103688,2024,Biomass & carbon stock,0,,,Independent hold-out test,0,1,1,0,1,3
+10.1088/2752-664x/ad7f5a,2024,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1186/s13717-024-00520-w,2024,Carbon & water flux,0,,,None detected,0,0,1,0,0,1
+10.1186/s42408-024-00288-6,2024,Wildfire & post-fire recovery,0,,,Cross-validation only,1,0,1,0,0,2
+10.3390/plants13233325,2024,Drought stress & vegetation response,9,0.73,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.indic.2024.100485,2024,Greening / browning trends,3,0.89,0.89,Independent hold-out test,0,1,1,1,1,4
+10.1186/s40068-024-00371-6,2024,Greening / browning trends,11,0.46,0.997,None detected,1,0,1,0,1,3
+10.54386/jam.v26i4.2663,2024,Phenology,1,0.68,0.68,None detected,0,0,1,0,1,2
+10.3390/rs16234509,2024,Greening / browning trends,0,,,None detected,1,0,1,0,0,2
+10.1038/s41598-024-71133-8,2024,Biomass & carbon stock,5,0.57,0.75,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecoinf.2024.102821,2024,Greening / browning trends,0,,,None detected,1,0,1,1,0,3
+10.3390/rs16203894,2024,Phenology,0,,,None detected,1,0,0,0,0,1
+10.3390/rs16173238,2024,Wildfire & post-fire recovery,2,0.755,0.81,Independent hold-out test,0,1,0,0,1,2
+10.1016/j.ecoinf.2024.102659,2024,Drought stress & vegetation response,0,,,None detected,1,0,1,1,0,3
+10.1016/j.rse.2024.114282,2024,Greening / browning trends,2,0.915,0.93,Independent hold-out test,0,1,1,0,1,3
+10.3390/rs16183475,2024,Carbon & water flux,9,0.2,0.78,None detected,1,0,1,0,1,3
+10.17582/journal.pjar/2024/37.3.241.249,2024,Drought stress & vegetation response,3,0.855,0.855,None detected,0,0,0,0,1,1
+10.3390/rs16152793,2024,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.scitotenv.2024.173270,2024,Biomass & carbon stock,1,0.66,0.66,Cross-validation only,0,0,1,0,1,2
+10.3390/rs16162913,2024,Biomass & carbon stock,8,0.78,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2024.112230,2024,Biomass & carbon stock,14,0.595,1.0,Independent hold-out test,1,1,0,0,1,3
+10.1016/j.rsase.2024.101244,2024,Land cover / land use change,0,,,Independent hold-out test,1,1,1,0,0,3
+10.2478/forj-2024-0013,2024,Unclassified,1,0.805,0.805,Cross-validation only,1,0,1,0,1,3
+10.1016/j.rse.2024.114123,2024,Carbon & water flux,6,0.53,0.79,None detected,1,0,1,0,1,3
+10.1016/j.foreco.2024.121920,2024,Biomass & carbon stock,6,0.775,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2024.112123,2024,Unclassified,31,0.35,0.89,Independent hold-out test,1,1,1,0,1,4
+10.3390/su16125041,2024,Unclassified,0,,,Independent hold-out test,1,1,1,1,1,5
+10.3390/f15060995,2024,Phenology,5,0.77,1.0,Cross-validation only,0,0,0,0,1,1
+10.1016/j.isprsjprs.2024.03.018,2024,Phenology,0,,,Independent hold-out test,0,1,1,0,1,3
+10.1016/j.scitotenv.2024.171297,2024,Biomass & carbon stock,0,,,None detected,0,0,1,0,0,1
+10.1007/s00704-024-04846-5,2024,Carbon & water flux,0,,,None detected,0,0,0,0,0,0
+10.3390/rs16071160,2024,Greening / browning trends,0,,,None detected,0,0,0,0,0,0
+10.3390/rs16071268,2024,Biomass & carbon stock,5,0.64,1.0,Independent hold-out test,1,1,0,0,1,3
+10.3390/f15040731,2024,Biomass & carbon stock,8,0.46,1.0,Cross-validation only,1,0,0,0,1,2
+10.1029/2023jg007728,2024,Carbon & water flux,7,0.77,0.87,Independent hold-out test,1,1,1,1,1,5
+10.3390/f15040662,2024,Land cover / land use change,0,,,None detected,0,0,1,0,0,1
+10.1016/j.ejrh.2024.101689,2024,Drought stress & vegetation response,6,0.2,0.34,None detected,1,0,1,0,1,3
+10.1371/journal.pone.0300486,2024,Phenology,0,,,None detected,1,0,1,0,0,2
+10.3390/rs16050750,2024,Biomass & carbon stock,6,0.865,0.97,Independent hold-out test,1,1,1,0,1,4
+10.7226/jtfm.30.1.107,2024,Land cover / land use change,0,,,Independent hold-out test,0,1,0,0,1,2
+10.3390/land13030399,2024,Phenology,25,0.13,0.63236,Cross-validation only,1,0,1,0,1,3
+10.1016/j.foreco.2024.121729,2024,Wildfire & post-fire recovery,0,,,Independent hold-out test,0,1,1,0,0,2
+10.1016/j.bamboo.2023.100055,2024,Biomass & carbon stock,4,0.538,0.714,Cross-validation only,1,0,1,0,1,3
+10.3390/f15010215,2024,Biomass & carbon stock,16,0.785,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2023.111482,2024,Greening / browning trends,0,,,None detected,0,0,0,0,0,0
+10.1109/jstars.2024.3365971,2024,Greening / browning trends,0,,,Independent hold-out test,1,1,0,0,1,3
+10.1155/2024/9910094,2024,Biomass & carbon stock,9,0.9809,0.9839,None detected,0,0,1,0,1,2
+10.1080/01431161.2024.2372076,2024,Drought stress & vegetation response,0,,,None detected,0,0,1,0,0,1
+10.1590/s1982-21702024000100005,2024,Wildfire & post-fire recovery,0,,,Independent hold-out test,1,1,0,0,0,2
+10.15244/pjoes/173165,2024,Biomass & carbon stock,0,,,None detected,0,0,0,0,0,0
+10.1080/20964471.2023.2268322,2024,Greening / browning trends,9,0.43,0.57,None detected,1,0,1,0,1,3
+10.1117/1.jrs.18.014524,2024,Phenology,0,,,Independent hold-out test,0,1,0,0,0,1
+10.3389/fenvs.2024.1448648,2024,Biomass & carbon stock,1,0.79,0.79,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2023.111342,2024,Phenology,0,,,None detected,0,0,1,0,0,1
+10.22364/bjmc.2024.12.4.06,2024,Wildfire & post-fire recovery,0,,,Spatially independent test,0,1,1,1,1,4
+10.12912/27197050/188872,2024,Land cover / land use change,0,,,None detected,0,0,0,0,0,0
+10.1109/jstars.2024.3432581,2024,Carbon & water flux,0,,,None detected,1,0,1,0,0,2
+10.24996/ijs.2024.65.5.45,2024,Vegetation degradation & restoration,0,,,None detected,1,0,0,0,0,1
+10.1016/j.rse.2023.113800,2023,Phenology,2,0.205,0.35,Spatially independent test,1,1,1,1,1,5
+10.3390/rs15245677,2023,Carbon & water flux,0,,,None detected,1,0,1,0,0,2
+10.1016/j.foreco.2023.121406,2023,Phenology,0,,,None detected,1,0,1,0,0,2
+10.3390/rs15225428,2023,Crop yield & agriculture,0,,,None detected,1,0,1,0,0,2
+10.1016/j.rse.2023.113785,2023,Phenology,4,0.6685,0.95,None detected,1,0,1,0,1,3
+10.1002/esp.5605,2023,Land cover / land use change,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1002/met.2156,2023,Greening / browning trends,0,,,None detected,0,0,1,0,0,1
+10.3390/plants12183312,2023,Greening / browning trends,0,,,None detected,0,0,1,0,0,1
+10.3390/su151511562,2023,Phenology,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1016/j.heliyon.2023.e18686,2023,Phenology,0,,,None detected,0,0,1,0,0,1
+10.5424/fs/2023322-20348,2023,Unclassified,0,,,None detected,0,0,1,0,0,1
+10.1088/1748-9326/acdf03,2023,Biomass & carbon stock,3,0.52,0.59,Independent hold-out test,0,1,1,0,1,3
+10.3390/plants12132550,2023,Greening / browning trends,0,,,None detected,0,0,1,0,0,1
+10.1016/j.scitotenv.2023.163114,2023,Phenology,4,0.7,0.7,Cross-validation only,1,0,1,0,1,3
+10.3390/rs15102495,2023,Phenology,0,,,Independent hold-out test,1,1,1,1,1,5
+10.3390/f14050992,2023,Biomass & carbon stock,2,0.9045,0.906,None detected,1,0,0,0,1,2
+10.3390/su15076012,2023,Phenology,0,,,None detected,1,0,1,0,0,2
+10.3390/rs15081969,2023,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs15082043,2023,Biomass & carbon stock,23,0.65,0.98,Independent hold-out test,0,1,1,0,1,3
+10.3390/f14040753,2023,Greening / browning trends,5,0.55,0.67,None detected,1,0,0,0,1,2
+10.1007/s00267-022-01749-x,2023,Greening / browning trends,0,,,Independent hold-out test,1,1,0,0,0,2
+10.3390/d15040481,2023,Drought stress & vegetation response,0,,,Cross-validation only,0,0,1,0,1,2
+10.1007/s12518-023-00497-9,2023,Biomass & carbon stock,21,0.47,0.6,Independent hold-out test,1,1,1,0,1,4
+10.7717/peerj.14557,2023,Wildfire & post-fire recovery,0,,,None detected,0,0,0,0,0,0
+10.1111/gcb.16497,2023,Biomass & carbon stock,1,0.82,0.82,Independent hold-out test,0,1,1,0,1,3
+10.5194/bg-20-1473-2023,2023,Carbon & water flux,0,,,Independent hold-out test,1,1,1,1,1,5
+10.1155/2023/5553957,2023,Biomass & carbon stock,14,0.8190999999999999,0.95,Independent hold-out test,0,1,1,0,1,3
+10.3390/s23010349,2023,Biomass & carbon stock,33,0.63,1.0,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.isprsjprs.2022.11.011,2023,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1109/lgrs.2023.3322782,2023,Unclassified,0,,,None detected,0,0,0,0,0,0
+10.3389/ffgc.2023.1164347,2023,Carbon & water flux,0,,,None detected,0,0,0,0,0,0
+10.22146/ijg.61697,2023,Phenology,0,,,None detected,0,0,0,0,0,0
+10.3389/fevo.2023.1326980,2023,Biomass & carbon stock,3,0.876,1.0,Independent hold-out test,0,1,1,0,1,3
+10.3390/rs15010218,2023,Phenology,0,,,None detected,0,0,1,0,0,1
+10.3390/rs15010072,2023,Phenology,1,1.0,1.0,Independent hold-out test,1,1,1,0,1,4
+10.3389/fmars.2023.1241928,2023,Biomass & carbon stock,0,,,None detected,1,0,0,0,0,1
+10.1016/j.gloenvcha.2022.102621,2023,Biomass & carbon stock,4,0.36,0.49,None detected,1,0,1,0,1,3
+10.3390/rs14236180,2022,Phenology,1,0.9209,0.9209,None detected,0,0,1,0,1,2
+10.1111/plb.13391,2022,Carbon & water flux,0,,,None detected,1,0,0,0,0,1
+10.1515/geo-2022-0553,2023,Biomass & carbon stock,13,0.07,0.81,None detected,0,0,1,0,1,2
+10.3390/f13122157,2022,Biomass & carbon stock,28,0.725,1.0,Independent hold-out test,1,1,1,0,1,4
+10.13057/biodiv/d240402,2023,Biomass & carbon stock,0,,,None detected,1,0,0,0,0,1
+10.3390/rs14235968,2022,Biomass & carbon stock,10,0.5800000000000001,0.92,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs14236105,2022,Phenology,0,,,None detected,1,0,1,0,1,3
+10.38094/jastt401175,2023,Biomass & carbon stock,0,,,None detected,0,0,0,0,0,0
+10.3390/rs14215456,2022,Biomass & carbon stock,0,,,None detected,0,0,0,0,1,1
+10.3390/rs14215616,2022,Unclassified,0,,,None detected,0,0,0,0,0,0
+10.3390/rs14215621,2022,Unclassified,0,,,None detected,0,0,0,0,0,0
+10.3390/geosciences12110412,2022,Greening / browning trends,0,,,None detected,1,0,1,0,0,2
+10.1016/j.jag.2022.103069,2022,Crop yield & agriculture,0,,,Independent hold-out test,0,1,1,0,1,3
+10.1088/1748-9326/ac9d50,2022,Biomass & carbon stock,0,,,Spatially independent test,1,1,1,0,0,3
+10.15446/esrj.v27n4.110128,2023,Wildfire & post-fire recovery,0,,,Independent hold-out test,0,1,0,0,1,2
+10.3390/rs14153683,2022,Greening / browning trends,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1016/j.scitotenv.2022.156419,2022,Greening / browning trends,0,,,Cross-validation only,0,0,1,0,1,2
+10.3390/rs14153748,2022,Phenology,0,,,None detected,1,0,0,0,1,2
+10.3390/rs14164097,2022,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,0,0,3
+10.3390/rs14153648,2022,Phenology,0,,,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs14153581,2022,Phenology,0,,,Independent hold-out test,0,1,0,1,0,2
+10.1016/j.geogeo.2022.100075,2022,Greening / browning trends,2,0.12045,0.2058,None detected,0,0,0,0,1,1
+10.1088/1748-9326/ac8499,2022,Phenology,0,,,Independent hold-out test,0,1,1,1,0,3
+10.3390/rs14133160,2022,Phenology,0,,,None detected,1,0,1,0,1,3
+10.5194/bg-19-3317-2022,2022,Wildfire & post-fire recovery,0,,,None detected,1,0,1,0,0,2
+10.1088/2515-7620/ac814c,2022,Phenology,1,0.93,0.93,None detected,1,0,1,0,1,3
+10.3832/ifor4043-015,2022,Land cover / land use change,0,,,Independent hold-out test,1,1,1,1,0,4
+10.3390/land11060923,2022,Land cover / land use change,0,,,Independent hold-out test,1,1,1,0,1,4
+10.1007/s11676-021-01363-3,2022,Biomass & carbon stock,7,0.74,0.78,None detected,1,0,1,0,1,3
+10.3390/rs14112706,2022,Greening / browning trends,0,,,None detected,0,0,1,0,0,1
+10.1111/aec.13146,2022,Unclassified,0,,,Cross-validation only,0,0,1,0,0,1
+10.1175/jhm-d-21-0169.1,2022,Phenology,0,,,Independent hold-out test,0,1,1,1,0,3
+10.3390/rs14092136,2022,Phenology,4,0.86,0.86,None detected,1,0,1,0,1,3
+10.3390/land11050605,2022,Greening / browning trends,0,,,None detected,1,0,1,0,0,2
+10.3389/fpls.2022.863116,2022,Phenology,0,,,Cross-validation only,1,0,1,0,0,2
+10.3390/rs14102408,2022,Greening / browning trends,0,,,None detected,1,0,1,0,0,2
+10.1111/gcb.16136,2022,Drought stress & vegetation response,1,0.53,0.53,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs14071765,2022,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.3390/rs14071608,2022,Biomass & carbon stock,22,0.669,0.72,Cross-validation only,1,0,1,0,1,3
+10.3390/rs14081911,2022,Land cover / land use change,4,0.98,0.98,None detected,1,0,1,0,1,3
+10.1007/s10661-022-09904-x,2022,Species distribution & biodiversity,0,,,Independent hold-out test,0,1,0,0,0,1
+10.3390/plants11050584,2022,Phenology,0,,,None detected,0,0,0,0,0,0
+10.3389/ffgc.2022.818713,2022,Wildfire & post-fire recovery,6,0.595,0.67,Independent hold-out test,1,1,0,1,1,4
+10.1088/2515-7620/ac5b84,2022,Land cover / land use change,0,,,Independent hold-out test,1,1,1,0,0,3
+10.3390/d14030171,2022,Carbon & water flux,35,0.28,0.99,None detected,0,0,0,0,1,1
+10.3390/f13030442,2022,Biomass & carbon stock,6,0.63,1.0,Independent hold-out test,0,1,1,0,1,3
+10.3390/rs14051296,2022,Phenology,0,,,None detected,1,0,1,0,1,3
+10.1016/j.ecolind.2022.108629,2022,Greening / browning trends,0,,,Cross-validation only,1,0,0,1,0,2
+10.3390/rs14041039,2022,Biomass & carbon stock,10,0.5,0.82,Independent hold-out test,1,1,1,0,1,4
+10.1016/j.ecolind.2022.108579,2022,Phenology,21,0.33,0.67,None detected,1,0,1,0,1,3
+10.1117/1.jrs.16.034516,2022,Biomass & carbon stock,0,,,None detected,1,0,1,0,1,3
+10.1016/j.ejrs.2022.01.006,2022,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.3390/rs14041004,2022,Phenology,0,,,None detected,1,0,1,0,1,3
+10.1016/j.rse.2021.112835,2022,Phenology,3,0.76,0.907,None detected,1,0,1,0,1,3
+10.3390/land11010100,2022,Vegetation degradation & restoration,0,,,Cross-validation only,0,0,0,1,0,1
+10.1109/jstars.2022.3196494,2022,Phenology,0,,,None detected,1,0,1,0,1,3
+10.20870/oeno-one.2022.56.1.4632,2022,Unclassified,0,,,None detected,1,0,1,0,1,3
+10.3390/geographies1030011,2021,Unclassified,22,0.63,0.91,Independent hold-out test,0,1,0,0,1,2
+10.3390/ijerph182211863,2021,Carbon & water flux,6,0.35285,0.7542,None detected,1,0,1,0,1,3
+10.3390/rs13214326,2021,Vegetation degradation & restoration,0,,,None detected,1,0,1,0,0,2
+10.3390/su132413554,2021,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.3390/rs13214281,2021,Biomass & carbon stock,2,0.81,0.91,Independent hold-out test,0,1,0,0,1,2
+10.3389/fpls.2021.689220,2021,Phenology,0,,,None detected,1,0,1,0,0,2
+10.3390/rs13214465,2021,Phenology,0,,,None detected,1,0,1,0,0,2
+10.3390/land10101037,2021,Species distribution & biodiversity,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1088/1748-9326/ac3cec,2021,Biomass & carbon stock,2,0.52,0.64,Independent hold-out test,0,1,1,0,1,3
+10.19040/ecocycles.v8i1.225,2022,Land cover / land use change,0,,,None detected,0,0,0,0,0,0
+10.3390/rs13193982,2021,Phenology,0,,,None detected,1,0,0,0,0,1
+10.3390/w13182550,2021,Phenology,0,,,None detected,1,0,1,0,0,2
+10.3390/rs13173442,2021,Greening / browning trends,0,,,Spatially independent test,0,1,1,0,0,2
+10.1002/rse2.198,2021,Biomass & carbon stock,16,0.45,0.85,None detected,1,0,1,1,1,4
+10.1016/j.jag.2021.102352,2021,Drought stress & vegetation response,0,,,Independent hold-out test,1,1,0,0,0,2
+10.3390/rs13153032,2021,Phenology,2,0.8180499999999999,0.8182,Independent hold-out test,1,1,0,0,1,3
+10.3390/rs13153031,2021,Phenology,2,0.47,0.47,None detected,1,0,0,0,1,2
+10.3390/rs13163262,2021,Biomass & carbon stock,0,,,Independent hold-out test,1,1,1,1,0,4
+10.3390/rs13153015,2021,Phenology,0,,,Independent hold-out test,1,1,1,1,1,5
+10.1088/1748-9326/ac0be2,2021,Greening / browning trends,0,,,None detected,1,0,1,0,0,2
+10.1016/j.ecolind.2021.107648,2021,Greening / browning trends,0,,,None detected,0,0,0,0,0,0
+10.1016/j.scitotenv.2021.145526,2021,Drought stress & vegetation response,0,,,None detected,1,0,1,0,0,2
+10.3390/s21123982,2021,Wildfire & post-fire recovery,0,,,Independent hold-out test,1,1,1,0,0,3
+10.3390/math9111305,2021,Wildfire & post-fire recovery,0,,,None detected,1,0,0,1,0,2
+10.3390/rs13091845,2021,Drought stress & vegetation response,0,,,None detected,1,0,1,1,0,3
+10.1016/j.ecolind.2021.107604,2021,Greening / browning trends,0,,,Cross-validation only,1,0,0,0,1,2
+10.3390/rs13081492,2021,Greening / browning trends,0,,,Independent hold-out test,1,1,1,0,1,4
+10.1002/eap.2288,2021,Phenology,0,,,Independent hold-out test,0,1,1,0,0,2
+10.1016/j.jag.2020.102267,2021,Phenology,1,0.8,0.8,None detected,1,0,1,0,1,3
+10.3390/f12030286,2021,Phenology,3,0.795,0.795,None detected,1,0,1,0,1,3
+10.3390/cli9030047,2021,Phenology,0,,,None detected,1,0,1,1,0,3
+10.3390/app11041859,2021,Greening / browning trends,0,,,Cross-validation only,1,0,1,0,0,2
+10.1007/s10661-021-08996-1,2021,Unclassified,0,,,None detected,0,0,0,0,0,0
+10.1080/20964471.2021.1920661,2021,Phenology,0,,,None detected,0,0,0,1,0,1
+10.1080/20964471.2021.1974681,2021,Drought stress & vegetation response,1,0.033,0.033,None detected,1,0,0,0,1,2
+10.18400/tekderg.590356,2021,Drought stress & vegetation response,0,,,None detected,1,0,0,0,0,1
+10.3390/rs13010058,2021,Carbon & water flux,0,,,Independent hold-out test,0,1,0,0,0,1
+10.3390/rs12244155,2020,Biomass & carbon stock,1,0.95,0.95,Cross-validation only,1,0,1,0,1,3
+10.1007/s13201-020-01332-x,2021,Greening / browning trends,8,0.215,0.372,None detected,0,0,0,0,1,1
+10.1016/j.ejrs.2020.08.003,2020,Vegetation degradation & restoration,1,0.178,0.178,None detected,0,0,0,0,1,1
+10.3390/rs12172760,2020,Phenology,0,,,None detected,1,0,0,0,1,2
+10.3389/frsen.2021.666251,2021,Wildfire & post-fire recovery,0,,,Independent hold-out test,1,1,1,0,1,4
+10.3390/su12166644,2020,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.1038/s41598-020-67024-3,2020,Biomass & carbon stock,0,,,Cross-validation only,0,0,0,0,0,0
+10.3390/s20143839,2020,Vegetation degradation & restoration,0,,,None detected,1,0,1,0,0,2
+10.1016/j.agrformet.2020.107969,2020,Phenology,3,0.65,0.65,Independent hold-out test,1,1,1,0,1,4
+10.1080/17583004.2020.1735917,2020,Biomass & carbon stock,1,0.66,0.66,Cross-validation only,1,0,0,0,1,2
+10.1186/s13021-020-00151-6,2020,Biomass & carbon stock,22,0.44,0.87,Independent hold-out test,1,1,1,0,1,4
+10.3390/s20072102,2020,Greening / browning trends,2,0.5589999999999999,0.694,None detected,1,0,1,0,1,3
+10.3390/rs12050786,2020,Phenology,0,,,None detected,0,0,1,0,1,2
+10.1016/j.rse.2020.111685,2020,Phenology,8,0.47,0.9,None detected,1,0,1,0,1,3
+10.1016/j.isprsjprs.2020.01.012,2020,Phenology,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1080/22797254.2020.1786466,2020,Phenology,0,,,Independent hold-out test,1,1,0,0,0,2
+10.1109/access.2020.3027361,2020,Biomass & carbon stock,2,0.89,0.93,Independent hold-out test,1,1,1,0,1,4
+10.15666/aeer/1801_783815,2020,Biomass & carbon stock,10,0.215,0.68,None detected,1,0,1,0,1,3
+10.3390/f10111004,2019,Unclassified,1,1.0,1.0,Independent hold-out test,0,1,0,0,1,2
+10.1016/j.rse.2019.111383,2019,Carbon & water flux,10,0.635,0.93,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs11182107,2019,Phenology,0,,,None detected,0,0,1,0,0,1
+10.3390/rs11151783,2019,Crop yield & agriculture,0,,,None detected,0,0,1,0,0,1
+10.3390/rs11131517,2019,Phenology,2,0.77,0.77,None detected,0,0,1,0,1,2
+10.3390/rs11131593,2019,Phenology,0,,,Independent hold-out test,0,1,0,0,0,1
+10.3390/app9102016,2019,Unclassified,0,,,None detected,0,0,0,0,0,0
+10.3390/f10050363,2019,Wildfire & post-fire recovery,0,,,None detected,1,0,0,0,0,1
+10.1117/1.jrs.13.020501,2019,Unclassified,0,,,None detected,1,0,1,0,0,2
+10.3390/s19061481,2019,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1016/j.scitotenv.2018.10.052,2019,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.3390/rs11030230,2019,Biomass & carbon stock,59,0.67,0.98,Cross-validation only,0,0,1,0,1,2
+10.3390/rs11010077,2019,Biomass & carbon stock,7,0.71,1.0,Independent hold-out test,1,1,1,0,1,4
+10.5194/gmd-12-5029-2019,2019,Wildfire & post-fire recovery,0,,,None detected,0,0,1,1,0,2
+10.3390/f10080641,2019,Biomass & carbon stock,5,0.327,0.659,Cross-validation only,1,0,0,0,1,2
+10.3390/f10030276,2019,Biomass & carbon stock,1,0.612,0.612,Independent hold-out test,1,1,0,0,1,3
+10.1186/s13021-018-0093-5,2018,Biomass & carbon stock,1,0.82,0.82,Independent hold-out test,1,1,1,0,1,4
+10.1029/2018jg004485,2018,Drought stress & vegetation response,1,0.57,0.57,Cross-validation only,1,0,1,0,1,3
+10.1080/01431161.2018.1430914,2018,Phenology,6,0.55,0.8,Independent hold-out test,1,1,1,0,1,4
+10.3390/rs10050791,2018,Phenology,2,0.93,0.98,Independent hold-out test,1,1,1,0,1,4
+10.1371/journal.pone.0200328,2018,Phenology,1,0.6,0.6,None detected,0,0,1,0,1,2
+10.5194/bg-15-2781-2018,2018,Land cover / land use change,0,,,Independent hold-out test,1,1,1,1,0,4
+10.1088/1748-9326/aad5d2,2018,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.15201/hungeobull.67.1.3,2018,Drought stress & vegetation response,0,,,Independent hold-out test,1,1,1,0,0,3
+10.3390/rs9100986,2017,Greening / browning trends,0,,,Independent hold-out test,1,1,0,0,0,2
+10.1016/j.ecolind.2017.02.037,2017,Wildfire & post-fire recovery,0,,,None detected,1,0,0,0,0,1
+10.1016/j.isprsjprs.2017.07.012,2017,Carbon & water flux,24,0.76,0.94,Independent hold-out test,1,1,0,0,1,3
+10.1016/j.jag.2017.03.008,2017,Phenology,0,,,Independent hold-out test,1,1,1,0,0,3
+10.3390/rs9050485,2017,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1016/j.rse.2017.03.035,2017,Wildfire & post-fire recovery,1,0.692,0.692,Independent hold-out test,1,1,1,0,1,4
+10.15177/seefor.17-05,2017,Carbon & water flux,0,,,None detected,1,0,1,0,0,2
+10.3390/rs9010049,2017,Phenology,9,0.47,0.8,None detected,1,0,1,0,1,3
+10.3390/rs8121026,2016,Phenology,0,,,None detected,0,0,1,0,0,1
+10.5721/eujrs20164942,2016,Biomass & carbon stock,0,,,Cross-validation only,0,0,0,0,0,0
+10.15287/afr.2016.400,2016,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1002/joc.4231,2015,Greening / browning trends,2,0.6499999999999999,0.7,None detected,1,0,1,0,1,3
+10.5194/bg-13-5085-2016,2016,Phenology,0,,,None detected,0,0,1,0,0,1
+10.3390/rs70302832,2015,Biomass & carbon stock,6,0.74,0.78,None detected,1,0,1,0,1,3
+10.3390/rs70404442,2015,Biomass & carbon stock,5,0.63,0.79,Independent hold-out test,1,1,1,0,1,4
+10.1007/s13595-014-0408-y,2015,Carbon & water flux,5,0.58,0.97,None detected,0,0,1,0,1,2
+10.3390/rs70810164,2015,Greening / browning trends,4,0.205,0.68,None detected,1,0,1,0,1,3
+10.3390/rs70302283,2015,Biomass & carbon stock,0,,,None detected,0,0,1,0,0,1
+10.1007/s13595-014-0404-2,2015,Drought stress & vegetation response,0,,,Independent hold-out test,1,1,0,0,0,2
+10.5721/eujrs20144734,2014,Biomass & carbon stock,3,0.46,0.52,None detected,0,0,1,0,1,2
+10.5721/eujrs20144718,2014,Phenology,0,,,Independent hold-out test,0,1,1,0,0,2
+10.3390/rs6098088,2014,Phenology,4,0.6,0.6,Independent hold-out test,1,1,1,0,1,4
+10.1111/gcb.12647,2014,Greening / browning trends,0,,,Independent hold-out test,1,1,1,0,0,3
+10.1080/01431161.2014.883104,2014,Wildfire & post-fire recovery,3,0.79,0.79,None detected,1,0,1,0,1,3
+10.1088/1748-9326/9/2/025004,2014,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.1371/journal.pone.0086121,2014,Biomass & carbon stock,6,0.759,0.991,None detected,0,0,1,0,1,2
+10.1007/s00704-013-1004-z,2014,Phenology,0,,,None detected,0,0,0,0,0,0
+10.1371/journal.pone.0081630,2013,Unclassified,2,0.01,0.01,None detected,1,0,1,0,1,3
+10.1657/1938-4246-45.2.249,2013,Greening / browning trends,0,,,None detected,1,0,0,0,0,1
+10.1371/journal.pone.0074807,2013,Biomass & carbon stock,12,0.585,0.67,None detected,1,0,1,0,1,3
+10.5194/bg-13-6321-2016,2016,Biomass & carbon stock,0,,,Independent hold-out test,0,1,1,0,0,2
+10.1016/j.ecolind.2012.04.008,2012,Unclassified,0,,,None detected,0,0,1,0,0,1
+10.1016/j.ecolind.2011.12.007,2012,Land cover / land use change,0,,,Independent hold-out test,0,1,1,0,0,2
+10.3390/rs4040810,2012,Biomass & carbon stock,0,,,None detected,1,0,1,0,1,3
+10.1016/j.jag.2012.03.016,2012,Carbon & water flux,6,0.675,0.96,None detected,0,0,1,0,1,2
+10.3846/20296991.2013.807050,2013,Phenology,0,,,None detected,0,0,1,0,0,1
+10.1088/1748-9326/7/1/015504,2012,Greening / browning trends,1,0.96,0.96,None detected,0,0,0,0,1,1
+10.1111/j.1365-2486.2011.02412.x,2011,Wildfire & post-fire recovery,0,,,Cross-validation only,1,0,1,0,0,2
+10.1029/2012jg001977,2012,Phenology,6,0.4424,0.6428,None detected,0,0,1,0,1,2
+10.1016/j.rse.2010.08.003,2010,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1088/1748-9326/6/4/045508,2011,Phenology,0,,,None detected,1,0,1,0,0,2
+10.1088/1748-9326/6/4/045502,2011,Greening / browning trends,0,,,Independent hold-out test,1,1,0,0,0,2
+10.1111/j.1469-8137.2010.03355.x,2010,Phenology,1,0.97,0.97,None detected,1,0,1,0,1,3
+10.1111/j.1469-8137.2010.03310.x,2010,Phenology,1,0.84,0.84,None detected,1,0,1,0,1,3
+10.3390/rs2020388,2010,Phenology,12,0.329,0.744,None detected,1,0,0,0,1,2
+10.14358/pers.77.11.1123,2011,Unclassified,1,0.937,0.937,Cross-validation only,0,0,1,0,1,2
+10.1071/bt08079,2008,Phenology,3,0.7109,0.89,None detected,0,0,1,0,1,2
+10.1088/1748-9326/4/4/045004,2009,Greening / browning trends,0,,,Cross-validation only,0,0,1,0,0,1
+10.3390/s7123312,2007,Vegetation degradation & restoration,2,0.4196,0.4196,None detected,1,0,1,0,1,3
+10.1080/01431161.2013.803169,2013,Phenology,0,,,None detected,1,0,0,0,0,1

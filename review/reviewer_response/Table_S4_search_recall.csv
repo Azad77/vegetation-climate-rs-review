@@ -1,0 +1,22 @@
+﻿Subset,Benchmark n,Retrieved,Recall (%),95% CI,"Recall if ""climate change"" in abstract (%)"
+All benchmark studies,762,154,20.2,17.5-23.2,46.8
+Sensor: Landsat,186,42,22.6,17.2-29.1,51.4
+Sensor: MODIS,154,41,26.6,20.3-34.1,68.6
+Sensor: Sentinel-2,105,45,42.9,33.8-52.4,93.2
+Sensor: SAR / Sentinel-1,60,25,41.7,30.1-54.3,82.1
+Sensor: AVHRR / GIMMS,44,6,13.6,6.4-26.7,42.9
+Sensor: LiDAR / GEDI / ICESat,43,16,37.2,24.4-52.1,64.0
+Sensor: Hyperspectral,21,3,14.3,5.0-34.6,60.0
+Sensor: SIF,25,1,4.0,0.7-19.5,25.0
+Sensor: Very-high-resolution,14,2,14.3,4.0-39.9,50.0
+Domain: Phenology,200,35,17.5,12.9-23.4,41.2
+Domain: Greening / browning trend,66,19,28.8,19.3-40.6,45.5
+Domain: Drought response,145,32,22.1,16.1-29.5,52.4
+Domain: Fire / disturbance,147,33,22.4,16.5-29.8,43.9
+Domain: Biomass / carbon stock,134,43,32.1,24.8-40.4,58.5
+Domain: Productivity / carbon flux,134,22,16.4,11.1-23.6,43.5
+Domain: Land cover change,179,36,20.1,14.9-26.6,42.5
+Domain: Crops / agriculture,235,33,14.0,10.2-19.1,43.9
+Domain: Forest,393,100,25.4,21.4-30.0,52.3
+Domain: Grassland / dryland,177,35,19.8,14.6-26.3,50.0
+Domain: Tundra / high latitude,69,14,20.3,12.5-31.2,39.3
